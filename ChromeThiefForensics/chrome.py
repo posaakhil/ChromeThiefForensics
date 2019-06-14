@@ -31,7 +31,7 @@ print ("""
      XMMMM)MMM"   \~                     'MMMMM*
     'MMMMfMMM"  \~                        XMMM*
    .MMMMMXMM"  ^                          `MMM
-By Bluedangerforyou
+By @AKhilHacker
 """)
 print("GOOGLE CHROME MUST NOT BE OPEN OR TOOL WILL HANG")
 print ("Enter your USB Drive Letter with colon. Example G: ")
